@@ -1,4 +1,5 @@
-![Power BI](https://img.shields.io/badge/Made%20with-Power%20BI-blue?logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Made%20with-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 # Washington House Sales Dashboard
 
 This repository contains a Tableau dashboard analyzing house sales data in King County, Washington. The dashboard provides insights into various factors affecting house prices, including location, condition, view quality, and other features.
